@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# the public dataset is not redistributed here; see data_card.md
+data/raw/*
+!data/raw/.gitkeep
